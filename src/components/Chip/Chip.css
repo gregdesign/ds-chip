@@ -1,0 +1,41 @@
+.chip {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  background: var(--Primary-primary-container);
+  color: var(--Background-Surface-Layer-Surface-on-surface);
+  border-radius: var(--size-1);
+  gap: var(--sys-spacing-control-gap-sm);
+  padding: var(--sys-spacing-control-padding-tb-sm)
+    var(--sys-spacing-control-padding-lr-sm);
+  font-family: var(--font-family-brand);
+  font-size: var(--ref-type-size-label-m);
+  font-weight: var(--label-m);
+  letter-spacing: var(--Type-letter-space-letter-space-regular);
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.chip__icon {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+}
+
+.chip__icon svg {
+  display: block;
+  width: 16px;
+  height: 16px;
+}
+
+.chip__label {
+  flex-shrink: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
