@@ -24,10 +24,13 @@
   --Tertiary-tertiary-container: #e0e0e0;
   --Background-Surface-Layer-Layer-Color-layer-3: #e8f2ff;
   --Background-Surface-Layer-Surface-on-surface: #00003a;
+  --Utility-Actions-background-color: #2e29ff;
+  --Utility-Positive-Default-positive-container: #adede0;
+  --Primary-on-primary: #ffffff;
   --Type-letter-space-letter-space-regular: 0px;
   --ref-type-size-label-m: 16px;
   --label-m: 500;
-  --font-family-brand: Montserrat, var(--sans);
+  --font-family-brand: Poppins, var(--sans);
   --sys-spacing-control-gap-sm: 8px;
   --sys-spacing-control-padding-lr-sm: 16px;
   --sys-spacing-control-padding-tb-sm: 12px;
@@ -67,6 +70,9 @@
     --Tertiary-tertiary-container: #3a3a3a;
     --Background-Surface-Layer-Layer-Color-layer-3: #1a2634;
     --Background-Surface-Layer-Surface-on-surface: #e8eaf6;
+    --Utility-Actions-background-color: #6b6dff;
+    --Utility-Positive-Default-positive-container: #214a40;
+    --Primary-on-primary: #ffffff;
   }
 }
 
