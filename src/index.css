@@ -20,6 +20,7 @@
    * (slashes break LightningCSS minify). Values from get_variable_defs.
    */
   --Primary-primary-container: #cfdfff;
+  --Secondary-secondary-container: #aee4ff;
   --Background-Surface-Layer-Surface-on-surface: #00003a;
   --Type-letter-space-letter-space-regular: 0px;
   --ref-type-size-label-m: 16px;
@@ -60,6 +61,7 @@
       rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
 
     --Primary-primary-container: #243754;
+    --Secondary-secondary-container: #1c4a66;
     --Background-Surface-Layer-Surface-on-surface: #e8eaf6;
   }
 }

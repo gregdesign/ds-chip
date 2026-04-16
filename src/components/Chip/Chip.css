@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   max-width: 100%;
-  background: var(--Primary-primary-container);
+  background: var(--Secondary-secondary-container);
   color: var(--Background-Surface-Layer-Surface-on-surface);
   border-radius: var(--size-1);
   gap: var(--sys-spacing-control-gap-sm);
