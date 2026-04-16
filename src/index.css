@@ -21,11 +21,12 @@
    */
   --Primary-primary-container: #cfdfff;
   --Secondary-secondary-container: #aee4ff;
+  --Tertiary-tertiary-container: #e0e0e0;
   --Background-Surface-Layer-Surface-on-surface: #00003a;
   --Type-letter-space-letter-space-regular: 0px;
   --ref-type-size-label-m: 16px;
   --label-m: 500;
-  --font-family-brand: Poppins, var(--sans);
+  --font-family-brand: Montserrat, var(--sans);
   --sys-spacing-control-gap-sm: 8px;
   --sys-spacing-control-padding-lr-sm: 16px;
   --sys-spacing-control-padding-tb-sm: 12px;
@@ -62,6 +63,7 @@
 
     --Primary-primary-container: #243754;
     --Secondary-secondary-container: #1c4a66;
+    --Tertiary-tertiary-container: #3a3a3a;
     --Background-Surface-Layer-Surface-on-surface: #e8eaf6;
   }
 }
